@@ -1,4 +1,5 @@
 # Payment-Gateway-Integration-Website
+ A fund donation website to feed the needy.
 ----------------------------------------------
 <h1>Created by: Abhilasha Panda</h1>
 <h2>SPARKS FOUNDATION PROJECT - Web Development<h2>
